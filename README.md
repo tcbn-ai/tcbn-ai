@@ -1,4 +1,7 @@
-### Hi there 👋
+# Ai Tachibana (@tcbn-ai)
+Master's student
+- 🔭 Interest: Nonlinear systems, Statistics, and Proof of Work
+- 🌱 Studying: Nonlinear systems, Docker, etc.
 
 <!--
 **tcbn-ai/tcbn-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
