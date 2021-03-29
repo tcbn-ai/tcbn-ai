@@ -1,6 +1,6 @@
 # Ai Tachibana (@tcbn-ai)
 Master's student
-- 🔭 Interest: Nonlinear systems, Statistics, and Proof of Work
+- 🔭 Interest: Nonlinear systems and Statistics
 - 🌱 Studying: Nonlinear systems, Docker, etc.
 
 <!--
